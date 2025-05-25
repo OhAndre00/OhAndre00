@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Maria Seidita</h1>
 <h3 align="center">A passionate full-stack developer from Italy</h3>
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OhAndre00?tab=repositories](https://github.com/OhAndre00?tab=repositories)
 
