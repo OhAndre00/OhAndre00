@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Maria Seidita</h1>
 <h3 align="center">Full-Stack Developer building modern web platforms</h3>
 
-🚀 **Currently working as a full-stack developer in a Web3 startup**, contributing to the Synapse platform – a Solana-powered infrastructure that includes RPC services, gRPC endpoints, real-time dashboards and an advanced Next.js portal.
+🚀 **Currently working as a full-stack developer in a Web3 startup**
 
 📚 I'm constantly improving my skills in **full-stack development, API design, system architecture, and UI/UX design**.
 
