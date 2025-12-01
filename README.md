@@ -1,20 +1,36 @@
 <h1 align="center">Hi 👋, I'm Andrea Maria Seidita</h1>
-<h3 align="center">A passionate full-stack developer from Italy</h3>
+<h3 align="center">Full-Stack Developer building modern web platforms</h3>
 
-- 🌱 I’m currently learning **Full-Stack Development**
+🚀 **Currently working as a full-stack developer in a Web3 startup**, contributing to the Synapse platform – a Solana-powered infrastructure that includes RPC services, gRPC endpoints, real-time dashboards and an advanced Next.js portal.
 
-- 👨‍💻 All of my projects are available at [https://github.com/OhAndre00?tab=repositories](https://github.com/OhAndre00?tab=repositories)
+📚 I'm constantly improving my skills in **full-stack development, API design, system architecture, and UI/UX design**.
 
-- 📫 How to reach me **andrea.seidita00@gmail.com**
+🔗 **All my public projects:**  
+https://github.com/OhAndre00?tab=repositories
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eQ91oe6sVsXexOENlp42rDldzTsKgDX2/view](https://drive.google.com/file/d/1eQ91oe6sVsXexOENlp42rDldzTsKgDX2/view)
+📫 **Contact me:**  
+**andrea.seidita00@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+📄 **CV:**  
+[https://drive.google.com/file/d/1eQ91oe6sVsXexOENlp42rDldzTsKgDX2/view](https://drive.google.com/file/d/1HyBQZ2S9PSKMXTjJ6nMnn_frfn0wKf_K/view?usp=sharing)
+
+---
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://instagram.com/@_oh_andre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_oh_andre" height="30" width="40" /></a>
+<a href="https://instagram.com/@_oh_andre" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_oh_andre" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohandre00&show_icons=true&locale=en&layout=compact" alt="ohandre00" /></p>
+<h3 align="left">Languages & Tools</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</p>
+
+---
