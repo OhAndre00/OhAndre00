@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrea Maria Seidita</h1>
+<h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">Full-Stack Developer building modern web platforms</h3>
 
 🚀 **Currently working as a full-stack developer in a Web3 startup**
@@ -11,9 +11,6 @@ https://github.com/OhAndre00?tab=repositories
 
 📫 **Contact me:**  
 **andrea.seidita00@gmail.com**
-
-📄 **CV:**  
-[https://drive.google.com/file/d/1eQ91oe6sVsXexOENlp42rDldzTsKgDX2/view](https://drive.google.com/file/d/1HyBQZ2S9PSKMXTjJ6nMnn_frfn0wKf_K/view?usp=sharing)
 
 ---
 
