@@ -16,8 +16,8 @@ https://github.com/OhAndre00?tab=repositories
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://ohandre.vercel.app/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="Portfolio" height="30" width="40" />
+<a href="https://ohandre.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" alt="Portfolio" height="30" width="40" />
 </a>
 </p>
 
