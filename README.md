@@ -17,7 +17,7 @@ https://github.com/OhAndre00?tab=repositories
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://ohandre.vercel.app/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_oh_andre" height="30" width="40" />
+  <img align="center" src="'https://github.com/Readme-Workflows/Readme-Icons/blob/main/icons/octicons/Comment.svg" alt="@_oh_andre" height="30" width="40" />
 </a>
 </p>
 
