@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer building modern web platforms</h3>
 
 🚀 **Currently working as a full-stack developer in a Web3 startup**
-[https://github.com/OOBE-PROTOCOL]
+[https://github.com/OOBE-PROTOCOL] **and other projects**
 
 📚 I'm constantly improving my skills in **full-stack development, API design, system architecture, and UI/UX design**.
 
